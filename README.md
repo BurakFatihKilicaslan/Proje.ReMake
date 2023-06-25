@@ -4,3 +4,6 @@ This project is designed to calculate the daily amount of food consumed by a use
 LogIn Information From Admin;
 User UserName(E-Posta) = burakKD@gmail.com;
 Password(Şifre) = burakBFK15++
+
+# Notes
+Operations were carried out by writing clean code in OOP logic by using Entity, DAL, BLL, PL layers within the framework of layered architectural structure and rules.
